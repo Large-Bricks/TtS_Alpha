@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 16cb26e80c5f32f41acc6fdf7ac1e03a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: w_center_jnt
+    100002: w_farsight_jnt
+    100004: w_geo
+    100006: w_head
+    100008: w_head_end
+    100010: w_hip
+    100012: w_left_foot
+    100014: w_left_foot_end
+    100016: w_left_hand_end
+    100018: w_left_lowarm
+    100020: w_left_lowleg
+    100022: w_left_uparm
+    100024: w_left_upleg
+    100026: w_rig
+    100028: w_right_foot
+    100030: w_right_foot_end
+    100032: w_right_hand_end
+    100034: w_right_lowarm
+    100036: w_right_lowleg
+    100038: w_right_uparm
+    100040: w_right_upleg
+    100042: w_root
+    100044: w_spine
+    100046: w_vision
+    100048: //RootNode
+    400000: w_center_jnt
+    400002: w_farsight_jnt
+    400004: w_geo
+    400006: w_head
+    400008: w_head_end
+    400010: w_hip
+    400012: w_left_foot
+    400014: w_left_foot_end
+    400016: w_left_hand_end
+    400018: w_left_lowarm
+    400020: w_left_lowleg
+    400022: w_left_uparm
+    400024: w_left_upleg
+    400026: w_rig
+    400028: w_right_foot
+    400030: w_right_foot_end
+    400032: w_right_hand_end
+    400034: w_right_lowarm
+    400036: w_right_lowleg
+    400038: w_right_uparm
+    400040: w_right_upleg
+    400042: w_root
+    400044: w_spine
+    400046: w_vision
+    400048: //RootNode
+    2100000: lambert2
+    2100002: blinn1
+    2100004: lambert3
+    4300000: w_geo
+    4300002: w_vision
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: w_geo
+    13700002: w_vision
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 12
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
